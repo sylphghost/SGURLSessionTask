@@ -1,6 +1,6 @@
 # SGURLSessionTask
 
-   ![language](https://img.shields.io/badge/language-Object--C-orange.svg)[![Support](https://img.shields.io/badge/support-iOS%208.0%2B%20-blue.svg?style=flat)](https://www.apple.com/nl/ios/)&nbsp;![CocoPods](https://img.shields.io/badge/cocopods-v1.3-green.svg)&nbsp;[![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/sylphghost/SGURLSessionTask/blob/master/LICENSE)&nbsp;
+   ![language](https://img.shields.io/badge/language-Object--C-orange.svg) [![Support](https://img.shields.io/badge/support-iOS%208.0%2B%20-blue.svg?style=flat)](https://www.apple.com/nl/ios/)&nbsp;![CocoPods](https://img.shields.io/badge/cocopods-v1.3-green.svg)&nbsp;[![License MIT](https://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/sylphghost/SGURLSessionTask/blob/master/LICENSE)&nbsp;
 
 **An easy-to-use network encapsulation for iOS projects. you can quickly integrate with the project, and most importantly, you can reduce the time it takes to connect to the server interface and save time to do something meaningful.**
 
