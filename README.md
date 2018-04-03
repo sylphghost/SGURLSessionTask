@@ -74,7 +74,7 @@ Update or replace [YYModel](https://github.com/ibireme/YYModel), you just need t
 **- (id)responseFromJsonDic** function. 
 # Installation
 #### CocoaPods
-1. Add pod **'SGURLSessionTask','~> 1.0.1'** to your Podfile.
+1. Add **pod 'SGURLSessionTask','~> 1.0.1'** to your Podfile.
 2. Run **pod install** or **pod update**.
 3. **Import \<SGURLSessionTask/SGURLSessionTask.h\>**.
 
