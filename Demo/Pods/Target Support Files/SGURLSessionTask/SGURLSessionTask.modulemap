@@ -1,0 +1,6 @@
+framework module SGURLSessionTask {
+  umbrella header "SGURLSessionTask-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,76 @@
+PODS:
+  - AFNetworking (3.2.0):
+    - AFNetworking/NSURLSession (= 3.2.0)
+    - AFNetworking/Reachability (= 3.2.0)
+    - AFNetworking/Security (= 3.2.0)
+    - AFNetworking/Serialization (= 3.2.0)
+    - AFNetworking/UIKit (= 3.2.0)
+  - AFNetworking/NSURLSession (3.2.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (3.2.0)
+  - AFNetworking/Security (3.2.0)
+  - AFNetworking/Serialization (3.2.0)
+  - AFNetworking/UIKit (3.2.0):
+    - AFNetworking/NSURLSession
+  - OMGHTTPURLRQ (3.2.4):
+    - OMGHTTPURLRQ/RQ (= 3.2.4)
+  - OMGHTTPURLRQ/FormURLEncode (3.2.4)
+  - OMGHTTPURLRQ/RQ (3.2.4):
+    - OMGHTTPURLRQ/FormURLEncode
+    - OMGHTTPURLRQ/UserAgent
+  - OMGHTTPURLRQ/UserAgent (3.2.4)
+  - PromiseKit (1.7.6):
+    - PromiseKit/CALayer (= 1.7.6)
+    - PromiseKit/NSNotificationCenter (= 1.7.6)
+    - PromiseKit/NSURLConnection (= 1.7.6)
+    - PromiseKit/Pause (= 1.7.6)
+    - PromiseKit/UIActionSheet (= 1.7.6)
+    - PromiseKit/UIAlertView (= 1.7.6)
+    - PromiseKit/UIView (= 1.7.6)
+    - PromiseKit/UIViewController (= 1.7.6)
+    - PromiseKit/Until (= 1.7.6)
+    - PromiseKit/When (= 1.7.6)
+  - PromiseKit/CALayer (1.7.6):
+    - PromiseKit/Promise
+  - PromiseKit/NSNotificationCenter (1.7.6):
+    - PromiseKit/Promise
+  - PromiseKit/NSURLConnection (1.7.6):
+    - OMGHTTPURLRQ (~> 3.2)
+    - PromiseKit/Promise
+  - PromiseKit/Pause (1.7.6):
+    - PromiseKit/Promise
+  - PromiseKit/Promise (1.7.6)
+  - PromiseKit/UIActionSheet (1.7.6):
+    - PromiseKit/Promise
+  - PromiseKit/UIAlertView (1.7.6):
+    - PromiseKit/Promise
+  - PromiseKit/UIView (1.7.6):
+    - PromiseKit/Promise
+  - PromiseKit/UIViewController (1.7.6):
+    - PromiseKit/Promise
+  - PromiseKit/Until (1.7.6):
+    - PromiseKit/Promise
+    - PromiseKit/When
+  - PromiseKit/When (1.7.6):
+    - PromiseKit/Promise
+  - SGURLSessionTask (1.0.1):
+    - AFNetworking (~> 3.0)
+    - PromiseKit (~> 1.0)
+    - YYModel
+  - YYModel (1.0.4)
+
+DEPENDENCIES:
+  - SGURLSessionTask (~> 1.0.1)
+
+SPEC CHECKSUMS:
+  AFNetworking: 8ac6017b94ea105479f7776e5288e48ae9c59bb4
+  OMGHTTPURLRQ: 9ac96bdf5c90a33f75836630729ea1adc312a9ed
+  PromiseKit: 94bcf2f44424df0384af81c6221cb3bfa3e7ed4c
+  SGURLSessionTask: 2b2f2fe2abacbb6c5b04a5a595c3dfeb03e5f0d5
+  YYModel: 2a7fdd96aaa4b86a824e26d0c517de8928c04b30
+
+PODFILE CHECKSUM: e9c4607b87ebe5af582ecf538330b3926e6f77d3
+
+COCOAPODS: 1.4.0
